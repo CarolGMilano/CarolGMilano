@@ -4,8 +4,8 @@
   
 <div align="center">
   <a href="https://github.com/CarolGMilano">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CarolGMilano&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolGMilano&layout=compact&langs_count=7&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CarolGMilano&show_icons=true&theme=radical&include_all_commits=true&count_private=true&random=&randomss524272"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolGMilano&layout=compact&langs_count=7&theme=radical&random=&randomss524272"/>
 </div>  
   
 ## Ferramentas e Tecnologias
