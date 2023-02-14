@@ -21,6 +21,7 @@
 ## Em estudo
 <div>
   <img alt="Carol-TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>     
+  <img alt="Carol-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </div>      
 
 
