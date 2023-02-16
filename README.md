@@ -4,7 +4,6 @@
   
 <div align="center">
   <a href="https://github.com/CarolGMilano">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CarolGMilano&show_icons=true&theme=radical&include_all_commits=true&count_private=true&random=&randomss524272"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolGMilano&layout=compact&langs_count=7&theme=radical&random=&randomss524272"/>
 </div>  
   
@@ -16,14 +15,13 @@
   <img alt="Carol-GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img alt="Carol-SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
   <img alt="Carol-TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
- </div>
+</div>
 
 ## Em estudo
 <div>
   <img alt="Carol-TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>     
   <img alt="Carol-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </div>      
-
 
 ## Contatos:
 <div>
