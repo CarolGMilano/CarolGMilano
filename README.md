@@ -15,14 +15,16 @@
   <img alt="Carol-GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/>
   <img alt="Carol-SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35" height="35"/>
   <img alt="Carol-TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35" height="35"/>
+  <img alt="Carol-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35"/>
 </div>
 
 ## Em estudo
 <div>
-  <img alt="Carol-TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="35" height="35"/>     
-  <img alt="Carol-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35"/>
+  <img alt="Carol-TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="35" height="35"/>   
+  <img alt="Carol-NextJS" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" width="35" height="35"/>
+  <img alt="Carol-ReduxToolkit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="35" height="35"/>
 </div>      
-
+   
 ## Contatos
 <div>
   <a href = "mailto:carolinamilanorg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
